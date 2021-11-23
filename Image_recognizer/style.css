@@ -1,0 +1,21 @@
+body{
+background: pink;
+color:white;
+}
+.heading{
+    width:90%;
+    font: size 25px;
+
+}
+#resultobjectname , #resultobjectaccuracy , .name_of_object
+{
+color:yellow
+}
+#camera , #result{
+height: 270px;
+width:300px;
+border-style: dashed;
+border-color: black;
+border-width: 3px;
+
+}
